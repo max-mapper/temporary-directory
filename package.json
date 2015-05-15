@@ -1,0 +1,19 @@
+{
+  "name": "temporary-directory",
+  "version": "1.0.0",
+  "description": "create a random temporary directory for testing and destroy it when you are done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/temporary-directory.git"
+  },
+  "author": "max ogden",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/maxogden/temporary-directory/issues"
+  },
+  "homepage": "https://github.com/maxogden/temporary-directory#readme"
+}
