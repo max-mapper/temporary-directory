@@ -4,7 +4,7 @@
   "description": "create a random temporary directory for testing and destroy it when you are done",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard && node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/maxogden/temporary-directory/issues"
   },
-  "homepage": "https://github.com/maxogden/temporary-directory#readme"
+  "homepage": "https://github.com/maxogden/temporary-directory#readme",
+  "dependencies": {
+    "cuid": "^1.2.5",
+    "standard": "^3.9.0"
+  }
 }
