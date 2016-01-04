@@ -1,6 +1,6 @@
 {
   "name": "temporary-directory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create a random temporary directory for testing and destroy it when you are done",
   "main": "index.js",
   "scripts": {
